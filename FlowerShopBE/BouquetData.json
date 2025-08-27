@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "Bó Hoa Baby H?ng",
+    "Description": "Bó hoa baby h?ng t??i mát, thích h?p cho các d?p l? tình nhân và k? ni?m",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaBabyHong.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa Cánh Cúc",
+    "Description": "Bó hoa cánh cúc tr?ng tinh khôi, mang l?i c?m giác bình yên và trang nhã",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaCanhCuc.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng Cam Chuông",
+    "Description": "Bó hoa h?ng cam chuông r?c r?, th? hi?n s? ?m áp và n?ng ??ng",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongCamChuong.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng Cam Spirit",
+    "Description": "Bó hoa h?ng cam spirit t??i sáng, t??ng tr?ng cho tinh th?n l?c quan",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongCamSpirit.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng ??",
+    "Description": "Bó hoa h?ng ?? th?m, bi?u t??ng c?a tình yêu chân thành và n?ng nàn",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongDo.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng Hót Gà",
+    "Description": "Bó hoa h?ng hót gà ??c ?áo, mang phong cách hi?n ??i và sang tr?ng",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongHotGa.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng Sáp",
+    "Description": "Bó hoa h?ng sáp vàng óng, th? hi?n s? quý phái và th?nh v??ng",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongSap.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H?ng Song H?",
+    "Description": "Bó hoa h?ng song h? may m?n, thích h?p cho các d?p c??i h?i",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHongSongHy.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Bó Hoa H??ng D??ng",
+    "Description": "Bó hoa h??ng d??ng t??i sáng, mang ??n n?ng l??ng tích c?c và ni?m vui",
+    "BouquetTypeID": 1,
+    "ImageURL": "Images/Flower/BoHoaHuongDuong.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Gi? Hoa H?ng Gorgeous",
+    "Description": "Gi? hoa h?ng gorgeous l?ng l?y, th? hi?n v? ??p quy?n r? và sang tr?ng",
+    "BouquetTypeID": 2,
+    "ImageURL": "Images/Flower/GioHoaHongGorgeous.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Gi? Hoa H?ng H??ng D??ng",
+    "Description": "Gi? hoa k?t h?p h?ng và h??ng d??ng, t?o nên s? hài hòa ??y màu s?c",
+    "BouquetTypeID": 2,
+    "ImageURL": "Images/Flower/GioHoaHongHuongDuong.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  },
+  {
+    "Name": "Gi? Hoa S?c Cam",
+    "Description": "Gi? hoa s?c cam r?c r?, mang l?i c?m giác ?m áp và n?ng ??ng",
+    "BouquetTypeID": 2,
+    "ImageURL": "Images/Flower/GioHoaSacCam.jpg",
+    "isAvailable": 1,
+    "CreatedDate": "GETDATE()",
+    "UpdatedDate": "GETDATE()"
+  }
+]
