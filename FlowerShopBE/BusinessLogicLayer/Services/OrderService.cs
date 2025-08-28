@@ -82,6 +82,7 @@ namespace BusinessLogicLayer.Services
         public async Task<OrderUpdateResponseDTO> UpdateOrderAsync(OrderUpdateRequestDTO request, int orderId)
         {
             var order = await _unitOfWork.OrderRepository.GetByIdAsync(orderId);
+            order.OrderStatus = request.OrderStatus;
             order.Note = request.Note;
             order.Address = request.Address;
             var result = await _unitOfWork.OrderRepository.Update(order);
